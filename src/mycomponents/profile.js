@@ -42,7 +42,7 @@ export const Profile = () =>{
         <a href='https://www.facebook.com/profile.php?id=100037298980442'target='_blank' class='fa fa-facebook' style={socialStylea}></a>
         <a href='https://www.instagram.com/mohammad_wajid_ali/' target='_blank' class='fa fa-instagram' style={socialStylea}></a>
         <a href='https://www.linkedin.com/in/mohammad-wajid-ali-95b8001b7/' target='_blank' class='fa fa-linkedin' style={socialStylea}></a>
-        <a href='#' class='fa fa-github' style={socialStyleaG}></a>
+        <a href='https://github.com/wajid92' class='fa fa-github' target='_blank' style={socialStyleaG}></a>
         </div>
         </>
     )
